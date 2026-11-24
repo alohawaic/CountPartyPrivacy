@@ -17,7 +17,7 @@ The App is intended for children, and this policy is written so that parents and
 * **Offline Gameplay:** All game progress, audio pronunciation, and physics interactions happen locally on your device.
 
 ## 3. Children’s Privacy (COPPA & GDPR-K Compliance)
-Because we do not collect any data from any user, Marble Spelling fully complies with the Children’s Online Privacy Protection Act (COPPA), the General Data Protection Regulation (GDPR-K), and Apple’s App Store Kids Category guidelines. We never knowingly or unknowingly collect personal information from children under the age of 13.
+Because we do not collect any data from any user, this App fully complies with the Children’s Online Privacy Protection Act (COPPA), the General Data Protection Regulation (GDPR-K), and Apple’s App Store Kids Category guidelines. We never knowingly or unknowingly collect personal information from children under the age of 13.
 
 ## 3. Third-Party Services
 This App does not integrate with any third-party services, social media platforms, or external servers. All purchases are processed securely and exclusively by Apple through the App Store.
@@ -36,7 +36,7 @@ For privacy concerns, please include the word “Privacy” in the subject line 
 
 # App Support
 
-Need help with Marble Spelling or have feedback to share? We are happy to assist!
+Need help with Count Party or have feedback to share? We are happy to assist!
 
 * **Email Support:** alohawaic@gmail.com
 * **Response Time:** We typically respond within 1–2 business days.
